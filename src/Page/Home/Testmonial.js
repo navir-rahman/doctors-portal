@@ -5,7 +5,7 @@ const Testmonial = ({ tsm }) => {
 
     return (
         <div>
-            <div class="card w-auto lg:w-96 bg-base-100 shadow-xl">
+            <div class="card w-auto lg:w-96 bg-base-100 shadow-xl m-auto">
                 <div class="card-body">
                     <p>{review}</p>
                     <div class="flex items-center">

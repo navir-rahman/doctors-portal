@@ -3,7 +3,7 @@ import footer from '../../../assets/images/footer.png'
 const Footer = () => {
     return (
 
-        <footer style={{ background: `url(${footer})`, backgroundSize: "cover", backgroundPosition: "center", backgroundRepeat: "no-repeat" }} className=" text-[#3A4256] p-20 pb-0 text-neutral-content">
+        <footer style={{ background: `url(${footer})`, backgroundSize: "cover", backgroundPosition: "center", backgroundRepeat: "no-repeat" }} className=" text-black p-20 pb-0 text-neutral-content">
             <div className='footer'>
 
                 <div>
